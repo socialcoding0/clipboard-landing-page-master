@@ -131,11 +131,11 @@ main {
     position: relative;
 }
 
-#ios {
+.ios {
     background-color: var(--Strong-Cyan);
 }
 
-#mac {
+.mac {
     background-color: var(--Light-Blue);
 }
 
